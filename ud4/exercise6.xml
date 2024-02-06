@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE booklist [
+    <!ELEMENT booklist (book)+>
+    <!ELEMENT book (bookname*,author+,price?,homepage)>
+    <!ELEMENT bookname (#PCDATA)>
+    <!ELEMENT author (#PCDATA)>
+    <!ELEMENT price (#PCDATA)>
+    <!ELEMENT homepage (#PCDATA)>
+]>
+<booklist>
+  <book>
+    <bookname>Caperucita roja</bookname>
+    <author>Anonimo</author>
+    <homepage>Pagina</homepage>
+  </book>
+  <book>
+    <bookname>Los tres cerditos</bookname>
+    <bookname>El lobo soplón</bookname>
+    <author>Anonimo</author>
+    <author>Anonimo 2</author>
+    <price>3</price>
+    <homepage>Pagina</homepage>
+  </book>
+</booklist>

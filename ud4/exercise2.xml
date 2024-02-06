@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE message [
+  <!ELEMENT message (from,to+,subject,attachment*,body?)>
+  <!ELEMENT from (#PCDATA)>
+  <!ELEMENT to (#PCDATA)>
+  <!ELEMENT body (#PCDATA)>
+  <!ELEMENT subject (#PCDATA)>
+  <!ELEMENT attachment (#PCDATA)>
+]>
+<message>
+  <from>maria@gmail.com</from>
+  <to>ignocio@gmail.com</to>
+  <to>cristina@edu.xunta.gal</to>
+  <subject>Sending files</subject>
+  <attachment>D:\photos\phishing.jpg</attachment>
+  <attachment>D:\docs\letter.odt</attachment>
+  <attachment>D:\fotos\dinner.jpg</attachment>
+</message>

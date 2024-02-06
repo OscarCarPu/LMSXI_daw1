@@ -1,0 +1,35 @@
+
+<!ENTITY % chapterContent "(chapter, description)">
+<!ENTITY % authorContent "(author+)">
+<!ENTITY % imageContent "(image*)">
+<!ENTITY % newChaptersContent "(chapter, description)">
+<!ENTITY % bookContent "(%authorContent;, %imageContent;, %chapterContent;, %newChaptersContent;)">
+
+<!ENTITY % bookElements "<!ELEMENT book (%bookContent;)>
+                         <!ATTLIST book bookID ID #REQUIRED>">
+
+<!ENTITY % bookDatabaseElements "<!ELEMENT bookDatabase (book*)>">
+
+<!ENTITY % chapterElements "<!ELEMENT chapter (#PCDATA)>
+                            <!ATTLIST chapter number NMTOKEN #REQUIRED>">
+                            
+<!ENTITY % sectionElements "<!ELEMENT section (#PCDATA)>">
+<!ENTITY % summaryElements "<!ELEMENT summary (#PCDATA)>">
+
+<!ENTITY % descriptionElements "<!ELEMENT description (%sectionElements;, %summaryElements;?)>">
+
+<!ENTITY % authorElement "<!ELEMENT author (#PCDATA)>">
+<!ENTITY % imageElement "<!ELEMENT image (#PCDATA)>">
+<!ENTITY % newChaptersElement "<!ELEMENT newchapters (%chapterContent;)">
+<!ENTITY % contentElement "<!ELEMENT content (%chapterContent;, %descriptionElements;)"> 
+
+  %bookDatabaseElements;
+  %bookElements;
+  %chapterElements;
+  %sectionElements;
+  %summaryElements;
+  %descriptionElements;
+  %authorElement;
+  %imageElement;
+  %newChaptersElement;
+  %contentElement;

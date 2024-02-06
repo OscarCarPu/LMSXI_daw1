@@ -1,0 +1,32 @@
+{
+    "books":[
+        {
+            "title":"Holly",
+            "author":"Stephing King",
+            "ISBN":"9788556511928",
+            "publishedDate":"2023-9-5",
+            "price":22.70,
+            "categories":["Horror","Mistery","thriller"],
+            "availability":"In Stock"
+        },
+        {
+            "title":"El problema final",
+            "author":"Arturo Pérez-reverte",
+            "ISBN":"9788420476650",
+            "publishedDate":"2023-9-5",
+            "price":20.8,
+            "categories":["Thriller","Mistery","fiction"],
+            "availability":"In Stock"
+        },
+        {
+            "title":"Asi hablo Zaratustra",
+            "author":"Friedrich Nietzsche",
+            "ISBN":"9780521602617",
+            "publishedDate":"1883",
+            "price":10.4,
+            "categories":["philosophical"],
+            "availability":"In Stock"
+        }
+    ],
+    "categories":["Horror","Mistery","Thriller","Fiction","Philosophical"]
+}

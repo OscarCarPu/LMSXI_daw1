@@ -1,0 +1,12 @@
+<course name="TIC">
+  <student id="ana">
+    <name>Ana</name>
+    <gender>Female</gender>
+    <comment>Friend of Iván</comment>
+  </student>
+  <student id="ivan">
+    <name>Iván</name>
+    <gender>male</gender>
+    <birthDate>1981-09-24</birthDate>
+  </student>
+</course>

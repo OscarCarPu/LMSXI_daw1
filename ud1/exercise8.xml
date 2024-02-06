@@ -1,0 +1,10 @@
+<mm xmlns:a="http://www.rr.org" xmlns="http://www.ss.org"><!-- default (rr) -->
+    <a:nn> <!-- a -->
+        <pp xmlns="http://www.tt.org" xmlns:b="http.//www.uu.org"><!-- default (tt) -->
+            <b:oo>Hello</b:oo><!-- b -->
+        </pp>
+        <c:qq xmlns="http://www.vv.org" xmlns:c="http://www.ww.org"> <!-- c -->
+            <rr>Goodbye</rr><!-- default (vv) -->
+        </c:qq>
+    </a:nn>
+</mm>

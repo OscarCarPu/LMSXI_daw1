@@ -1,0 +1,6 @@
+<!ELEMENT folks (person+)>
+<!ELEMENT person (name)>
+<!ATTLIST person pin NMTOKEN #REQUIRED>
+<!ATTLIST person friend NMTOKEN #IMPLIED>
+<!ATTLIST person likes CDATA #IMPLIED>
+<!ELEMENT name (#PCDATA)>

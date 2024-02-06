@@ -1,0 +1,34 @@
+<?xml version="1.0"?>	
+<!DOCTYPE stock[	
+  <!ELEMENT stock (new-car|used-car)*>	
+  <!ELEMENT new-car (model,price)>	
+  <!ELEMENT used-car (model,price,mileage,	condition?)>	
+  <!ELEMENT model (#PCDATA)>	
+  <!ELEMENT price (#PCDATA)>	
+  <!ELEMENT mileage (#PCDATA)>	
+  <!ELEMENT condition (#PCDATA)>	
+]>
+<stock>
+  <new-car>
+    <model>
+      Mercedes
+    </model>    
+    <price>
+      23
+    </price>
+  </new-car>
+  <used-car>
+    <model>
+      Siat Leon
+    </model>
+    <price>
+      11
+    </price>
+    <mileage>
+      1000
+    </mileage>
+    <condition>
+      Good
+    </condition>
+  </used-car>
+</stock>

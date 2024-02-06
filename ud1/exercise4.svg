@@ -1,0 +1,10 @@
+<svg width="400" height="800" >
+    <rect width="300" height="150" fill="RED">
+    </rect>
+    <rect y="200" width="200" height="200" fill="blue">
+    </rect>
+    <circle cy="500"  cx="150" r="75" fill="purple">
+    </circle>
+    <line x1="100" x2="200" y1="640" y2="640" stroke-width="9px" stroke="red"/>
+    <line x1="50" x2="150" y1="670" y2="670" stroke-width="6px" stroke="red"/>
+</svg>

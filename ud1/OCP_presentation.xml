@@ -1,0 +1,44 @@
+<infografia>
+  <name>
+    <first_name>Oscar</first_name>
+    <middle_name>Carballo</middle_name>
+    <second_name>Puebla</second_name>
+  </name>
+  <positive_qualities>
+    <quality>Hard-working</quality>
+    <quality>Smart</quality>
+    <quality>Friendly</quality>
+  </positive_qualities>
+  <negative_qualities>
+    <quality>Absent-minded</quality>
+    <quality>Forgetful</quality>
+  </negative_qualities>
+  <favourite_serie_film>
+    <quality>Life of Brain</quality>
+  </favourite_serie_film>
+  <last_book>
+    <name>The outsider</name>
+    <author>Stephing King</author>
+    <opnion>A good book, what you would expect form the author. A little slow for me.</opnion>
+  </last_book>
+  <dream>
+    <dream>Making a big step on some field of science</dream>
+  </dream>
+  <Favourite_singer>
+    <name>Mecano</name>
+    <observation>I wouldn't say I have a favourite</observation>
+  </Favourite_singer>
+  <hobbies>
+    <hobby>Programming</hobby>
+    <hobby>Music</hobby>
+  </hobbies>
+  <english_background>
+    <title>C1 Cambridge</title>
+    <observation>I have the speaking and writing very rusty</observation>    
+  </english_background>
+  <computer_background>
+    <background>I did a lot of programming competitions</background>
+    <background>I have experience working on fullstack development</background>
+    <background>I am constantly trying technologies and doing proyects.</background>
+  </computer_background>
+</infografia>

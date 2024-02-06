@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+    <title>Forms Review</title>
+  </head>
+  <body>
+    <hr>
+    <img src="img/burger-svgrepo-com.svg" width="10%">
+    <hr>
+    <section>
+      <form method="post">
+        <h1>Create a burger!</h1>
+        <section>
+          <label for="protein">What type of protein would you like?</label>
+          <input type="text" name="protein">
+        </section>
+        <hr>
+        <section>
+          <label for="patties">How many patties would you like?</label>
+          <input type="number" name="patties" min="0" max="10">
+        </section>
+        <hr>
+        <section>
+          <label for="cooked">How do you want your patty cooked</label><br>
+          Rare <input type="range" name="cooked" min="1" max="5" default="3">Well-Done
+        </section>
+        <hr>
+        <section>
+          <label for="toppin">What toppings would you like?</label><br>
+          <input type="checkbox" name="Lettuce">Lettuce
+          <input type="checkbox" name="Tomato">Tomato
+          <input type="checkbox" name="Onion">Onion
+        </section>
+        <hr>
+        <section>
+          <label for="cheese">Would you like to add cheese?</label><br>
+          <input type="radio" name="cheese" value="Yes">Yes
+          <input type="radio" name="cheese" value="No">No          
+        </section>
+        <hr>
+        <section>
+          <label for="bum">What type of bun would you like?</label>
+          <select name="bum">
+            <option value="Sesame">Sesame</option>
+            <option value="Potato">Potato</option>
+            <option value="Pretzel">Pretzel</option>
+          </select>
+        </section>
+        <hr>
+        <section>
+          <label for="sauce">What type of sauce would you like?</label>
+          <input type="text" list="sauce" name="sauce">
+          <datalist id="sauce">
+            <option>Ketchup</option>
+            <option>Mayo</option>
+            <option>Mustard</option>
+          </datalist>
+        </section>
+        <hr>
+        <section>
+          <label for="extra">Anything else you want to add</label><br>
+          <textarea name="extra" cols="30" rows="10"></textarea>
+        </section>
+        <hr>
+        <button type="submit">Send</button>
+      </form>
+    </section>
+    <a href="index.html">Login</a>
+  </body>
+</html>

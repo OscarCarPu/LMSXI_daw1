@@ -1,0 +1,68 @@
+@import url('https://fonts.cdnfonts.com/css/vina-sans');
+@import url('https://fonts.cdnfonts.com/css/karla');
+
+  @import url('https://fonts.googleapis.com/css2?family=Karla&family=Vina+Sans&display=swap');
+
+header, footer{
+  background:#6f3a1b;
+}
+
+article{
+  border-radius:5px;
+  background: #1b506f;
+  display:flex;
+justify-content: center;
+flex-direction: column-reverse;
+align-items: center;
+width:200px;
+height:250px;
+margin:10px;
+}
+main{
+  display:flex;
+  flex-direction:row;
+  flex-wrap:wrap;
+  justify-content:center;
+  align-items: center;
+  height:70%;
+}
+
+header{
+height:20%;
+display:flex;
+align-items: center;
+justify-content: center;
+font-weight:normal;
+}
+h1{
+  color:white;
+  font-family: 'Vina Sans', sans-serif;
+  font-size:60px;
+}
+img{
+  width:160px;
+  border-radius:100%;
+  margin-top:10px;
+  margin-bottom:10px;
+}
+h2{
+  color:white;
+  font-family: 'Karla', sans-serif;
+}
+footer{
+  display:flex;
+  justify-content: center;
+  height:10%;
+  
+align-items: center}
+*{
+  margin:0;
+}
+html,body{
+  height:100%;
+}
+p{
+color:white;
+font-family: 'Karla', sans-serif;
+                                                
+}

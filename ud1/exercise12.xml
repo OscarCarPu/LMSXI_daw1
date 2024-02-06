@@ -1,0 +1,9 @@
+<language>
+    <name>LaTeX</name>
+    <creation_year>1984</creation_year>
+    <authors>
+        <author id="1">Leslie Lamport</author>
+        <author id="2">LaTeX3 project</author>
+    </authors>
+    <compiled>false</compiled>
+</language>

@@ -1,0 +1,8 @@
+1.- How would you modify the structure if a book can have multiple authors?
+Just by making the value of "author" be an array
+
+2.- How would you add details about the publisher of each book?
+I would add a value to book named publisher, that would be a object with name, phone, email, etc...
+
+3.- If you were to inclue customers reviews for each book, how would the JSON structure change?
+I would add a value to book named reviews, that would be an array of objects, each object would contain an object user with informatino about the writer of the comment, a text review, and a number puntuation of the book.

@@ -1,0 +1,60 @@
+body{
+  display: flex;
+  justify-content: center;
+}
+*{
+  font-family:Inter,'Roboto';
+}
+article{
+  background-color: mediumpurple;
+  width:50%;
+  max-width:300px;
+  margin:20px;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+}
+header{
+  text-align: center;
+}
+img{
+  min-width: 200px;
+  border:5px solid aquamarine;
+  border-radius:5px;
+}
+h1{
+  font-family:agbalumo;
+  color:aquamarine;
+}
+p{
+  text-align: center;
+color:aquamarine;
+padding:0px 10px;
+}
+footer{
+  display:flex;
+  justify-content:space-around;
+margin-bottom:20px;
+}
+button{
+  border-radius: 5px;
+  height:40px;
+  width:80px;
+  font-weight:bold;
+  color:mediumpurple;
+}
+button:first-child{
+  background-color: white;
+
+  border:2px solid aquamarine;
+}
+button:last-child{
+  background-color: aquamarine;
+  border:2px solid white;
+}
+button:hover{
+  color:aquamarine;
+  background-color: mediumpurple;
+}
+
+@import url(https://fonts.googleapis.com/css2?family=Agbalumo&family=Inter:wght@800&family=Roboto:wght@500&display=swap);

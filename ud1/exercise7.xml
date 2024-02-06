@@ -1,0 +1,26 @@
+<tourist_trip>
+    <traveller id="1">
+        <name>John</name>
+        <surname>Johnson</surname>
+    </traveller>
+    <traveller id="2">
+        <name>Rodrigo</name>
+        <surname>Rodriguez</surname>
+    </traveller>
+    <begin_date>01/01/2020</begin_date>
+    <end_date>20/01/2020</end_date>
+    <departure_city>Bilbao</departure_city>
+    <dstinations>
+        <city id="1">
+            <name><![CDATA[<h1>Paris</h1>]]></name>
+            <hotel>Paris Gran Hotel</hotel>
+            <nights>4</nights>
+        </city>
+        <city id="2">
+            <name><![CDATA[<h1>Lorient</h1>]]></name>
+            <hotel>Small Tourist&amp;Other Motel</hotel>
+            <night>2</night>
+        </city>
+    </dstinations>
+    <total_price>1200€</total_price>
+</tourist_trip>

@@ -1,0 +1,12 @@
+{
+    "name":"Woody Allen",
+    "birthdate":"30/11/1935",
+    "Birthplace":"New York",
+    "Deathdate":null,
+    "Deathplace":null,
+    "movies":[
+        {"title":"Manhattan","date":"1979"},
+        {"title":"A rainy day in New York","date":"2019"},
+        {"title":"Cafe Society","date":"2016"}
+    ]
+}
