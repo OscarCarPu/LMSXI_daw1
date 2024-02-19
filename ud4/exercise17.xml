@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<shiporder>
+  <orderperson orderid="2">Manuel</orderperson>
+  <shipto>
+    <name>AliExpress</name>
+    <address>Shin,3</address>
+    <city>Tokio</city>
+    <country>Japan</country>
+  </shipto>
+  <item>
+    <title>Carcasa</title>
+    <note>Negra</note>
+    <quantity>1</quantity>
+    <price>0.23</price>
+  </item>
+  <item>
+    <title>Movil Iphon 3</title>
+    <quantity>3</quantity>
+    <price>150</price>
+  </item>
+</shiporder>

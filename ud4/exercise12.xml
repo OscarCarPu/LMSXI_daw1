@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE artists [
+  <!ELEMENT artists (artist+,album)>
+  <!ELEMENT artist EMPTY>
+  <!ATTLIST artist name CDATA #REQUIRED>
+  <!ATTLIST artist artistID ID #REQUIRED>
+  <!ELEMENT album EMPTY>
+  <!ATTLIST album name CDATA #REQUIRED>
+  <!ATTLIST album albumArtistID IDREF #IMPLIED>
+  <!ATTLIST album contributingArtistIDs IDREFS #IMPLIED>
+]>
+<artists>
+  <artist name="The Beatles" artistID="beatles"/>
+    <artist name="John Lennon" artistID="john"/>
+    <artist name="Paul McCartney" artistID="paul"/>
+    <artist name="George Harrison" artistID="george"/>
+    <artist name="Ringo Starr" artistID="ringo"/>
+  <album name="Abbey Road" albumArtistID="beatles" contributingArtistIDs="john paul ringo"/>
+</artists>

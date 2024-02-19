@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!DOCTYPE suppliers [
+  <!ELEMENT suppliers (order)>
+  <!ELEMENT order (tractor+)>
+  <!ELEMENT tractor (component+)>
+  <!ELEMENT component (manufacturName,deliveryDate,weight)>
+  <!ATTLIST component fragile CDATA #REQUIRED>
+  <!ATTLIST component serialNumber ID #REQUIRED>
+  <!ATTLIST component maximumKM CDATA #IMPLIED>
+  <!ELEMENT manufacturName (#PCDATA)>
+  <!ELEMENT deliveryDate (day?,month,year)>
+  <!ELEMENT weight (#PCDATA)>
+  <!ELEMENT day (#PCDATA)>
+  <!ELEMENT month (#PCDATA)>
+  <!ELEMENT year (#PCDATA)>
+]>
+<suppliers>
+  <order>
+    <tractor>
+      <component serialNumber="s1" fragile="no">
+        <manufacturName>John Deere</manufacturName>
+        <deliveryDate>
+          <month>01</month>
+          <year>2001</year>
+        </deliveryDate>
+        <weight>1500</weight>
+      </component>
+      <component serialNumber="s2" fragile="yes" maximumKM="123">
+        <manufacturName>John Deere</manufacturName>
+        <deliveryDate>
+          <day>02</day>
+          <month>02</month>
+          <year>2002</year>
+        </deliveryDate>
+        <weight>2000</weight>
+      </component>
+    </tractor>
+  </order>
+</suppliers>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone=" "?>
+<!DOCTYPE football [
+  <!ELEMENT football (game+,team+,player+)>
+  <!ELEMENT player EMPTY>
+  <!ATTLIST player name ID #REQUIRED>
+  <!ATTLIST player teamName IDREF #REQUIRED>
+  <!ELEMENT team EMPTY>
+  <!ATTLIST team name ID #REQUIRED>
+  <!ELEMENT game (teamHome,teamVisit,goal*,card*)>
+  <!ELEMENT teamHome EMPTY>
+  <!ATTLIST teamHome name IDREF #REQUIRED>
+  <!ATTLIST teamVisit name IDREF #REQUIRED>
+  <!ELEMENT teamVisit EMPTY>
+  <!ELEMENT goal EMPTY>
+  <!ELEMENT card EMPTY>
+  <!ATTLIST goal playerName IDREF #REQUIRED>
+  <!ATTLIST goal time CDATA #REQUIRED>
+  <!ATTLIST card playerName IDREF #REQUIRED>
+  <!ATTLIST card type CDATA #REQUIRED>
+]>
+<football>
+  <game>
+    <teamHome name="RealMadrid" />
+    <teamVisit name="FCBarcelona" />
+    <goal playerName="CristianoRonaldo" time="23" />
+    <goal playerName="LionelMessi" time="45" />
+    <card playerName="CristianoRonaldo" type="yellow" />
+  </game>
+  <team name="RealMadrid" />
+  <team name="FCBarcelona" />
+  <player name="CristianoRonaldo" teamName="RealMadrid" />
+  <player name="LionelMessi" teamName="FCBarcelona" />
+</football>

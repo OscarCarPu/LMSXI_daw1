@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE university [
+<!ELEMENT university (department+,course+,instructor+,teaches+)>
+<!ELEMENT department (#PCDATA)>
+<!ELEMENT course (#PCDATA)>
+<!ELEMENT instructor (#PCDATA)>
+<!ELEMENT teaches (#PCDATA)>
+<!ATTLIST department dept-name ID NMTOKEN #REQUIRED>
+<!ATTLIST department building CDATA #REQUIRED>
+<!ATTLIST department budget CDATA #REQUIRED>
+<!ATTLIST course course-id ID #REQUIRED>
+<!ATTLIST course title CDATA #REQUIRED>
+<!ATTLIST course dept-name IDREF #IMPLIED>
+<!ATTLIST course credits CDATA #REQUIRED>
+<!ATTLIST instructor IID ID NMTOKEN #REQUIRED>
+<!ATTLIST instructor name CDATA #REQUIRED>
+<!ATTLIST instructor dept-name IDREF #REQUIRED>
+<!ATTLIST instructor salary CDATA #REQUIRED>
+<!ATTLIST teaches IID IDREF #REQUIRED>
+<!ATTLIST teaches course-id IDREF #REQUIRED>
+]>
+<university>
+  <department dept-name="Comp. Sci." building="Taylor" budget="100000"> </department>
+  <department dept-name="Biology" building="Watson" budget="90000"> </department>
+  <course course-id="CS-101" title="Intro. to Computer Science" dept-name="Comp. Sci." credits="4"> </course>
+  <course course-id="BIO-301" title="Genetics" dept-name="Biology." credits="4"> </course>
+  <instructor IID="10101" name="Srinivasan" dept-name="Comp. Sci." salary="65000"> </instructor>
+  <instructor IID="83821" name="Brandt" dept-name="Comp. Sci" salary="92000"> </instructor>
+  <instructor IID="76766" name="Crick" dept-name="Biology" salary="72000"> </instructor>
+  <teaches IID="10101" course-id="CS-101"> </teaches>
+  <teaches IID="83821" course-id="CS-101"> </teaches>
+  <teaches IID="76766" course-id="BIO-301"> </teaches>
+  </university>
