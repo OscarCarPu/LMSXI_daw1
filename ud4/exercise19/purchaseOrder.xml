@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="purchaseOrder.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<purchaseOrder>
+  <shipTo >
+    <name>John</name>
+    <street>123 Main St</street>
+    <city>Los Angeles</city>
+    <state>LA</state>
+    <zip>90210</zip>
+  </shipTo>
+  <billTo>
+    <name>Jane </name>
+    <street>456 Minor St</street>
+    <city>New York</city>
+    <state>NY</state>
+    <zip>12345</zip>
+  </billTo>
+  <comment>Low cost order</comment>
+  <items>
+    <item partNum="123-AB">
+      <productName>Lamp</productName>
+      <quantity>5</quantity>
+      <USPrice>10.00</USPrice>
+      <comment>Very bright</comment>
+      <shipDate>2024-02-25</shipDate>
+    </item>
+    <item partNum="456-CD">
+      <productName>Gadget</productName>
+      <quantity>2</quantity>
+      <USPrice>20.00</USPrice>
+    </item>
+  </items>
+</purchaseOrder>
