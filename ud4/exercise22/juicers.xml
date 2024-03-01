@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-model href="juicers.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<juicers>
+  <juicer>
+    <name>Hola</name>
+    <image>a.jpg</image>
+    <description>Description</description>
+    <warranty>A23</warranty>
+    <weight>3</weight>
+    <cost>4.53</cost>
+    <cost>4.53</cost>
+    <retailer></retailer>
+  </juicer>
+  <juicer>
+    <name>Adios</name>
+    <image>bs as.png</image>
+    <description>Description2</description>
+    <cost>0.34</cost>
+    <retailer>As</retailer>
+  </juicer>
+</juicers>
