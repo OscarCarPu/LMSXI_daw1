@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="prices.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<prices>
+  <price>8</price>
+  <price>2.6</price>
+  <price>4.95</price>
+  <price>187</price>
+</prices>

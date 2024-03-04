@@ -8,7 +8,6 @@
       <xs:element name="name" type="xs:string"/>
       <xs:element name="photo" type="xs:string"/>
       <xs:element name="diameter" type="xs:double"/>
-n bh nb098o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8o8op
     </xs:sequence>
   </xs:complexType>
   </xs:element>
