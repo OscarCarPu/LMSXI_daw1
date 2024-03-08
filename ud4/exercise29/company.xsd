@@ -1,0 +1,91 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="company">
+    <xs:complexType>
+      <xs:all>
+        <xs:element name="general_information" type="GeneralInfoType">
+        </xs:element>
+        <xs:element name="departaments">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="department" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="staff" minOccurs="0" maxOccurs="3" type="employeeType">
+                    </xs:element>
+                  </xs:sequence>
+                  <xs:attribute name="fecha" type="xs:date" />
+                  <xs:attribute name="code" type="xs:string" />
+                  <xs:attribute name="department" type="departmentType" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:all>
+    </xs:complexType>
+    <xs:unique name="department-unique">
+      <xs:selector xpath="department" />
+      <xs:field xpath="@department" />
+    </xs:unique>
+  </xs:element>
+  <xs:complexType name="employeeType">
+    <xs:sequence>
+      <xs:element name="name" type="textType" />
+      <xs:element name="surname" type="textType" />
+      <xs:element name="middlename" type="textType" />
+      <xs:element name="role" type="xs:string" />
+      <xs:element name="sick" type="xs:boolean" />
+      <xs:element name="salary">
+        <xs:simpleType>
+          <xs:restriction base="xs:decimal">
+            <xs:minInclusive value="1000" />
+            <xs:maxExclusive value="9999" />
+            <xs:totalDigits value="6" />
+            <xs:fractionDigits value="2" />
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="key" type="keyType" />
+    </xs:sequence>
+    <xs:attribute name="user" type="userType"/>
+  </xs:complexType>
+  <xs:simpleType name="keyType">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="[0-9][^0-9][a-z]{2,4}[A-Z]?[KYH][\w]{0,3}" />
+      <xs:length value="8"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:complexType name="GeneralInfoType">
+    <xs:sequence>
+      <xs:element name="name" type="xs:string" />
+      <xs:element name="number_employees" type="xs:int" />
+      <xs:choice>
+        <xs:element name="education" />
+        <xs:element name="finances" />
+        <xs:element name="technology" />
+      </xs:choice>
+    </xs:sequence>
+    <xs:attribute name="multinational" type="xs:boolean" />
+    <xs:attribute name="currency" type="xs:string" />
+  </xs:complexType>
+  <xs:simpleType name="userType">
+    <xs:restriction base="xs:string">
+<xs:minInclusive value="6"/>
+<xs:maxInclusive value="8"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="textType">
+    <xs:restriction base="xs:string">
+      <xs:minLength value="1" />
+      <xs:maxLength value="40" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="departmentType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Administration" />
+      <xs:enumeration value="Computer" />
+      <xs:enumeration value="Marketing" />
+      <xs:enumeration value="Human Resources" />
+    </xs:restriction>
+  </xs:simpleType>
+</xs:schema>
