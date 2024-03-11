@@ -47,12 +47,12 @@
       </xs:element>
       <xs:element name="key" type="keyType" />
     </xs:sequence>
-    <xs:attribute name="user" type="userType"/>
+    <xs:attribute name="user" type="userType" />
   </xs:complexType>
   <xs:simpleType name="keyType">
     <xs:restriction base="xs:string">
       <xs:pattern value="[0-9][^0-9][a-z]{2,4}[A-Z]?[KYH][\w]{0,3}" />
-      <xs:length value="8"/>
+      <xs:length value="8" />
     </xs:restriction>
   </xs:simpleType>
   <xs:complexType name="GeneralInfoType">
@@ -70,8 +70,8 @@
   </xs:complexType>
   <xs:simpleType name="userType">
     <xs:restriction base="xs:string">
-<xs:minInclusive value="6"/>
-<xs:maxInclusive value="8"/>
+      <xs:minLength value="6"/>
+      <xs:maxLength value="8"/>
     </xs:restriction>
   </xs:simpleType>
   <xs:simpleType name="textType">
