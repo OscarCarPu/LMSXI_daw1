@@ -1,0 +1,26 @@
+<listing>
+    <account>
+        <holder ID="5671001D">Ramon Mariño</holder>
+        <currentbalance currency="euros">12000</currentbalance>
+        <creationdate>April 13, 2022</creationdate>
+    </account>
+    <money>
+        <associatedaccount>20-A</associatedaccount>
+        <data>
+            <depositedamount>20000</depositedamount>
+            <currency>Euros</currency>
+        </data>
+    </money>
+    <money>
+        <associatedaccount>21-DX</associatedaccount>
+        <data>
+            <depositedamount>4800</depositedamount>
+            <currency>Dollars</currency>
+        </data>
+    </money>
+    <account>
+        <holder ID="39812341C">Carmen Diaz</holder>
+        <currentbalance currency="euros">1900</currentbalance>
+        <creationdate>15-February-2011</creationdate>
+    </account>
+</listing>
