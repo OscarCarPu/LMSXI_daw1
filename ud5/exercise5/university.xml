@@ -1,0 +1,163 @@
+<university>
+  <name>Universidade de Vigo</name>
+  <country>España</country>
+  <!--   degrees   -->
+  <degrees>
+    <degree id="c01">
+      <name>E.T. Informática</name>
+      <plan>2003</plan>
+      <credits>250</credits>
+      <centre>Escola de Informática</centre>
+    </degree>
+    <degree id="c02">
+      <name>Dipl. Empresariais</name>
+      <plan>2001</plan>
+      <credits>275</credits>
+      <centre>Facultade de Ciencias Sociais</centre>
+    </degree>
+    <degree id="c03">
+      <name>Dipl. Relacións Laborais</name>
+      <plan>2001</plan>
+      <credits>280</credits>
+      <centre>Facultade de Ciencias Sociais</centre>
+      <director>Alba Ceo Negro</director>
+    </degree>
+    <degree id="c04">
+      <name>Lic. Quimica</name>
+      <plan>2003</plan>
+      <credits>175</credits>
+      <centre>Facultade de Ciencias Experimentais</centre>
+    </degree>
+    <degree id="c05">
+      <name>Lic. Bioloxía</name>
+      <plan>2001</plan>
+      <credits>175</credits>
+      <centre>Facultade de Ciencias Experimentais</centre>
+    </degree>
+    <degree id="c06">
+      <name>Lic. Humanidades</name>
+      <plan>1980</plan>
+      <credits>475</credits>
+      <centre>Facultade de Humanidades</centre>
+    </degree>
+  </degrees>
+  <!--   subjects   -->
+  <subjects>
+    <subject id="a01" degree="c01">
+      <name>Ofimática</name>
+      <theoretical_credits>3</theoretical_credits>
+      <practical_credits>1.5</practical_credits>
+      <trimester>1</trimester>
+    </subject>
+    <subject id="a02" degree="c01">
+      <name>Enxeñaría do Software</name>
+      <theoretical_credits>6</theoretical_credits>
+      <practical_credits>1.5</practical_credits>
+      <trimester>2</trimester>
+    </subject>
+    <subject id="a03" degree="c02">
+      <name>Administración de Empresas</name>
+      <theoretical_credits>4</theoretical_credits>
+      <practical_credits>1.5</practical_credits>
+      <trimester>1</trimester>
+    </subject>
+    <subject id="a04" degree="c02">
+      <name>Dereito Internacional</name>
+      <theoretical_credits>4</theoretical_credits>
+      <practical_credits>5</practical_credits>
+      <trimester>1</trimester>
+    </subject>
+    <subject id="a05" degree="c04">
+      <name>Pedagoxía</name>
+      <theoretical_credits>4</theoretical_credits>
+      <practical_credits>1.5</practical_credits>
+      <trimester>2</trimester>
+    </subject>
+    <subject id="a06" degree="c03">
+      <name>Didáctica</name>
+      <theoretical_credits>4</theoretical_credits>
+      <practical_credits>3</practical_credits>
+      <trimester>2</trimester>
+    </subject>
+    <subject id="a07" degree="c04">
+      <name>Tecnoloxía dos Alimentos</name>
+      <theoretical_credits>1.5</theoretical_credits>
+      <practical_credits>7.5</practical_credits>
+      <trimester>2</trimester>
+    </subject>
+    <subject id="a08" degree="c01">
+      <name>Bases de Datos</name>
+      <theoretical_credits>4.5</theoretical_credits>
+      <practical_credits>5.5</practical_credits>
+      <trimester>1</trimester>
+    </subject>
+    <subject id="a09" degree="c06">
+      <name>Historia do Pensamiento</name>
+      <theoretical_credits>6</theoretical_credits>
+      <practical_credits>0</practical_credits>
+      <trimester>2</trimester>
+    </subject>
+  </subjects>
+  <!--   students   -->
+  <students>
+    <student id="e01">
+      <first_surname>Rivas</first_surname>
+      <second_surname>Santos</second_surname>
+      <name>Víctor Manuel</name>
+      <gender>Home</gender>
+      <studies>
+        <degree code="c01"/>
+        <subjects>
+          <subject code="a01"/>
+          <subject code="a03"/>
+          <subject code="a05"/>
+          <subject code="a09"/>
+        </subjects>
+      </studies>
+    </student>
+    <student id="e02">
+      <first_surname>Pérez</first_surname>
+      <second_surname>García</second_surname>
+      <name>Luisa</name>
+      <gender>Muller</gender>
+      <studies>
+        <degree code="c02"/>
+        <subjects>
+          <subject code="a02"/>
+          <subject code="a01"/>
+        </subjects>
+        <project>Web de IBM.com</project>
+      </studies>
+    </student>
+    <student id="e03" scolarship="yes">
+      <first_surname>Pérez</first_surname>
+      <second_surname>Romero</second_surname>
+      <name>Fernando</name>
+      <gender>Home</gender>
+      <studies>
+        <degree code="c02"/>
+        <subjects>
+          <subject code="a02"/>
+          <subject code="a01"/>
+          <subject code="a04"/>
+          <subject code="a09"/>
+        </subjects>
+      </studies>
+    </student>
+    <student id="e04">
+      <first_surname>Avalón</first_surname>
+      <second_surname>Guntín</second_surname>
+      <name>María</name>
+      <gender>Muller</gender>
+      <studies>
+        <degree code="c01"/>
+        <subjects>
+          <subject code="a02"/>
+          <subject code="a01"/>
+          <subject code="a07"/>
+        </subjects>
+        <project>Estudio de Salinidade da preza de Zamáns</project>
+      </studies>
+    </student>
+  </students>
+</university>

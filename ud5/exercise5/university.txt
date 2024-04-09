@@ -1,0 +1,9 @@
+//student[.//subject/@code="a02"]/first_surname
+//student[.//subject/@code=(//subject[name="Enxeñaría do Software"]/@id)]/first_surname
+
+(//student/studies[/subjects/subject/@code="a07"]/degree/@code)
+
+(//student/studies[/subjects/subject/@code="a07"]/degree/@code)
+
+//degree[@id=//student/studies[subjects/subject/@code=//subjects/subject[name="Tecnoloxía dos Alimentos"]/@id]/degree/@code]/name/text()
+//subjects/subject[/name="Tecnoloxía dos Alimentos"]/@id
