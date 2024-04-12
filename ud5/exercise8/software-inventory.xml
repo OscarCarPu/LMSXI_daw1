@@ -1,7 +1,7 @@
 <inventory>
   <product code="p1">
     <weight unit="kg">10</weight>
-    <name>Computer</name>
+    <name>Computers</name>
     <location building="B">
       <classroom>10</classroom>
     </location>
