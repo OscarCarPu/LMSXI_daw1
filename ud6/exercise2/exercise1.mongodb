@@ -1,0 +1,11 @@
+use('oscarcp');
+
+//db.transactions.find({Name:'Tom'});
+
+//db.transactions.find({'Payment.Total':400});
+
+//db.transactions.find({'Payment.Total':{$gt:400}})
+
+db.transactions.find({$or: [
+  {'Note':{$exists: false}},
+  {'Note':null}]})
