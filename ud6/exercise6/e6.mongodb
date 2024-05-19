@@ -1,5 +1,5 @@
 use('oscarcp')
-/*
+
 db.createCollection('orders')
 db.orders.insert(
   [
@@ -125,5 +125,5 @@ db.orders.find({"items.product":"p2"})
 db.orders.find({"items.quantity":{$lt:15}})
 db.orders.find({"items.colours":"blue"})
 db.orders.find({},{order:1,year:1,_id:0})
-*/
+
 db.orders.find({year:2022},{order:1,year:1,delivery_days:1,_id:0})
