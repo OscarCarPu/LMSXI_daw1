@@ -1,0 +1,1 @@
+[{"kind":2,"language":"xpath","value":"//movie[@type=\"comedy\"]/title"},{"kind":2,"language":"xpath","value":"//movie[actor=\"Nicolas Cage\"]/actor "},{"kind":2,"language":"xpath","value":"//movie[actor=\"Nicolas Cage\"]/actor[not(text()='Nicolas Cage')]"},{"kind":2,"language":"xpath","value":"//movie[@year=\"1992\"]/producer"}]
