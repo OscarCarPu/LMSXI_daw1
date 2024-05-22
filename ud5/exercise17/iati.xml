@@ -1,0 +1,106 @@
+   <!--iati-activities starts-->
+<iati-activities generated-datetime="2022-03-25T00:00:00Z" version="2.03">
+   <!--activity
+   starts-->
+   <iati-activity xml:lang="en" default-currency="CHF" last-updated-datetime="2022-03-25T00:00:00Z">
+      <iati-identifier>CH-4-2021-2021001474</iati-identifier>
+      <reporting-org ref="CH-4" type="10">
+         <narrative>Swiss Agency for Development and Cooperation (SDC)</narrative>
+      </reporting-org>
+      <title>
+         <narrative>ZA: PN CM9 Contribución CRP - small action credit</narrative>
+      </title>
+      <description type="1">
+         <narrative>Les crédits globaux pour petites actions permettent le financement d’opérations
+            ponctuelles, peu coûteuses, significatives en termes de développement, à composantes
+            diverses (techniques, sociales, organisationnelles et de gestion, politique, économique,
+            informative, etc.)</narrative>
+      </description>
+      <participating-org ref="CH-4" role="1" type="10">
+         <narrative>Swiss Agency for Development and Cooperation (SDC)</narrative>
+      </participating-org>
+      <participating-org ref="XM-DAC-23000" role="4" type="23">
+         <narrative>ONG basée dans un pays en développement</narrative>
+      </participating-org>
+      <other-identifier ref="7F-00242.16.08" type="A1" />
+      <activity-status code="2" />
+      <activity-date iso-date="2020-07-15" type="1" />
+      <!--planned
+      start-->
+      <activity-date iso-date="2020-07-15" type="2" />
+      <!-- Actual start-->
+      <activity-date iso-date="2022-12-31" type="3" />
+      <!-- planned end-->
+      <contact-info type="1">
+         <!-- general enquiries-->
+         <organisation>
+            <narrative>Swiss Agency for Development and Cooperation SDC</narrative>
+         </organisation>
+         <department>
+            <narrative>Statistics Unit</narrative>
+         </department>
+         <telephone>+41 58 464 92 35</telephone>
+         <email>stats.sdc@eda.admin.ch</email>
+         <website>http://www.sdc.admin.ch</website>
+         <mailing-address>
+            <narrative>Freiburgstrasse 130, 3003 Berne</narrative>
+         </mailing-address>
+      </contact-info>
+      <recipient-country code="PA">
+         <narrative>Panama</narrative>
+      </recipient-country>
+      <sector vocabulary="1" code="72050" percentage="20" />
+      <sector vocabulary="1" code="72010" percentage="30" />
+      <sector vocabulary="1" code="15190" percentage="50" />
+      <policy-marker code="6" significance="0">
+         <narrative>Aid Targeting the Objectives of the Framework Convention on Climate Change -
+            Mitigation</narrative>
+      </policy-marker>
+      <policy-marker code="8" significance="0">
+         <narrative>Aid Targeting the Objectives of the Convention to Combat Desertification</narrative>
+      </policy-marker>
+      <policy-marker code="7" significance="0">
+         <narrative> Aid Targeting the Objectives of the Framework Convention on Climate Change -
+            Adaptation </narrative>
+      </policy-marker>
+      <policy-marker code="2" significance="0">
+         <narrative>Aid to Environment</narrative>
+      </policy-marker>
+      <policy-marker code="5" significance="0">
+         <narrative>Aid Targeting the Objectives of the Convention on Biological Diversity</narrative>
+      </policy-marker>
+      <policy-marker code="9" significance="0">
+         <narrative> Reproductive, Maternal, Newborn and Child Health (RMNCH)</narrative>
+      </policy-marker>
+      <policy-marker code="1" significance="1">
+         <narrative> Gender Equality</narrative>
+      </policy-marker>
+      <collaboration-type code="1" />
+      <default-flow-type code="10" />
+      <default-finance-type code="110" />
+      <default-aid-type code="C01" vocabulary="1" />
+      <default-tied-status code="5" />
+      <transaction ref="7F-00242.16.08">
+         <transaction-type code="2" />
+         <transaction-date iso-date="2021-12-31" />
+         <value currency="CHF" value-date="2021-12-31">0</value>
+         <description>
+            <narrative> Outgoing Commitment </narrative>
+         </description>
+      </transaction>
+      <transaction ref="7F-00242.16.08">
+         <transaction-type code="3" />
+         <transaction-date iso-date="2021-12-31" />
+         <value currency="CHF" value-date="2021-12-31">137733</value>
+         <description>
+            <narrative> Disbursement</narrative>
+         </description>
+      </transaction>
+      <conditions attached="0" />
+   </iati-activity>
+   <!--iati-activity
+   ends-->
+
+</iati-activities>
+<!--iati-activities
+ends-->

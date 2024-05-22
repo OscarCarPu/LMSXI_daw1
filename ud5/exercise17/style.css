@@ -1,0 +1,25 @@
+*{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+th{
+  color:white;
+  font-weight: bold;
+  background-color: #c14b4f;
+}
+
+td, th{
+  border: 1px solid #c14b4f;
+  font-size: 1.5em;
+  padding:5px;
+}
+
+h1{
+  color:#c14b4f;
+  font-size: 35px;
+}
+
+table{
+  border-collapse: collapse;
+}
