@@ -1,0 +1,952 @@
+<result>
+    <agenda_list>
+        <item>
+            <id>140087</id>
+            <date>
+                <start_date>2024-02-22 01:00:00</start_date>
+                <end_date>2024-04-21 01:00:00</end_date>
+            </date>
+            <state />
+            <celebration_place>
+                <name>Praza do Toural, Pazo de Bendaña</name>
+                <space_id>2157</space_id>
+                <town>
+                    <tid>270</tid>
+                    <name>Santiago de Compostela</name>
+                    <ine_code>150780</ine_code>
+                </town>
+                <location>
+                    <longitude>-8.5449821</longitude>
+                    <latitude>42.8776123</latitude>
+                </location>
+            </celebration_place>
+            <title>Un latexo, unha dentada, un eructo </title>
+            <entry>Exposición da artista *Pía Piadosa* comisariada por *María Moreno Bueno*. </entry>
+            <event_type>
+                <tid>161</tid>
+                <name>Exposición</name>
+                <image>https://www.cultura.gal/sites/default/files/images/taxonomia/tipoloxia/iconoexposicion_0.svg</image>
+                <tid_sup>161</tid_sup>
+                <ttid>66</ttid>
+            </event_type>
+            <cycle>
+                <tid>0</tid>
+                <name />
+                <image />
+            </cycle>
+            <image>
+                <path>https://www.cultura.gal/sites/default/files/images/evento/image002.jpg</path>
+                <path_thumb>https://www.cultura.gal/sites/default/files/styles/evento_thumb_ws/public/images/evento/image002.jpg
+                </path_thumb>
+                <file_name>image002.jpg</file_name>
+                <alternative_text />
+                <title />
+            </image>
+            <url>https://www.cultura.gal/es/evento/109656/161/140087</url>
+            <online_event>0</online_event>
+            <url_online_event />
+            <language>es</language>
+            <event_detail>https://www.cultura.gal/v1/axenda/eventos/140087
+            </event_detail>
+        </item>
+        <item>
+            <id>139711</id>
+            <date>
+                <start_date>2024-04-21 12:00:00</start_date>
+                <end_date>2024-04-21 12:00:00</end_date>
+            </date>
+            <state />
+            <celebration_place>
+                <name>Rúa Nova, 22</name>
+                <space_id>2129</space_id>
+                <town>
+                    <tid>270</tid>
+                    <name>Santiago de Compostela</name>
+                    <ine_code>150780</ine_code>
+                </town>
+                <location>
+                    <longitude>-8.5434924</longitude>
+                    <latitude>42.8789542</latitude>
+                </location>
+            </celebration_place>
+            <title>BMMC- Dende o Mediterráneo
+            </title>
+            <entry>Banda de Música Municipal de Santiago de Compostela Carlos Sancho Cantus,
+                director invitado (ganador II Concurso Dirección BMSC “Xoan Montes”)</entry>
+            <event_type>
+                <tid>97</tid>
+                <name>Concierto</name>
+                <image>https://www.cultura.gal/sites/default/files/images/taxonomia/tipoloxia/iconoconcertos_0.svg</image>
+                <tid_sup>97</tid_sup>
+                <ttid>38</ttid>
+            </event_type>
+            <cycle>
+                <tid>0</tid>
+                <name />
+                <image />
+            </cycle>
+            <image>
+                <path>https://www.cultura.gal/sites/default/files/images/evento/bmscpostaisii20dendeomediterraneo0.jpg</path>
+                <path_thumb>https://www.cultura.gal/sites/default/files/styles/evento_thumb_ws/public/images/evento/bmscpostaisii20dendeomediterraneo0.jpg</path_thumb>
+                <file_name>bmscpostaisii20dendeomediterraneo0.jpg</file_name>
+                <alternative_text />
+                <title />
+            </image>
+            <url>https://www.cultura.gal/es/evento/109220/97/139711</url>
+            <online_event>0</online_event>
+            <url_online_event />
+            <language>es</language>
+            <event_detail>https://www.cultura.gal/v1/axenda/eventos/139711</event_detail>
+        </item>
+        <item>
+            <id>69967</id>
+            <date>
+                <start_date>2024-04-21 12:00:00</start_date>
+                <end_date>2024-04-21 12:00:00</end_date>
+            </date>
+            <state />
+            <celebration_place>
+                <name>Muíño de Bendilló</name>
+                <space_id />
+                <town>
+                    <tid>334</tid>
+                    <name>Quiroga</name>
+                    <ine_code>270500</ine_code>
+                </town>
+                <location>
+                    <longitude>-7.272686</longitude>
+                    <latitude>42.476101</latitude>
+                </location>
+            </celebration_place>
+            <title>Mostra do Aceite de Quiroga</title>
+            <entry>Fiesta de Interés Turístico</entry>
+            <event_type>
+                <tid>552</tid>
+                <name>Fiesta de interés turístico</name>
+                <image>https://www.cultura.gal/sites/default/files/images/taxonomia/tipoloxia/interese_0.svg</image>
+                <tid_sup>550</tid_sup>
+                <ttid>137</ttid>
+            </event_type>
+            <cycle>
+                <tid>0</tid>
+                <name />
+                <image />
+            </cycle>
+            <image>
+                <path>https://www.cultura.gal/sites/default/files/images/evento/mostradeaceite_0.jpg</path>
+                <path_thumb>https://www.cultura.gal/sites/default/files/styles/evento_thumb_ws/public/images/evento/mostradeaceite_0.jpg</path_thumb>
+                <file_name>mostradeaceite_0.jpg</file_name>
+                <alternative_text />
+                <title />
+            </image>
+            <url>https://www.cultura.gal/es/evento/61259/550/69967</url>
+            <online_event>0</online_event>
+            <url_online_event />
+            <language>es</language>
+            <event_detail>https://www.cultura.gal/v1/axenda/eventos/69967</event_detail>
+        </item>
+        <item>
+            <id>140878</id>
+            <date>
+                <start_date>2024-04-21 12:00:00</start_date>
+                <end_date>2024-04-21 12:00:00</end_date>
+            </date>
+            <state />
+            <celebration_place>
+                <name>Salón Teatro</name>
+                <space_id>796</space_id>
+                <town>
+                    <tid>270</tid>
+                    <name>Santiago de Compostela</name>
+                    <ine_code>150780</ine_code>
+                </town>
+                <location>
+                    <longitude>-8.543818</longitude>
+                    <latitude>42.878413</latitude>
+                </location>
+            </celebration_place>
+            <title>O corazón na boca</title>
+            <entrada />
+            <event_type>
+                <tid>159</tid>
+                <name>Teatro</name>
+                <image>https://www.cultura.gal/sites/default/files/images/taxonomia/tipoloxia/teatro_0.svg</image>
+                <tid_sup>158</tid_sup>
+                <ttid>102</ttid>
+            </event_type>
+            <cycle>
+                <tid>0</tid>
+                <name />
+                <image />
+            </cycle>
+            <image>
+                <path>https://www.cultura.gal/sites/default/files/images/evento/o_corazon_na_boca_cadrado_web.jpg</path>
+                <path_thumb>https://www.cultura.gal/sites/default/files/styles/evento_thumb_ws/public/images/evento/o_corazon_na_boca_cadrado_web.jpg</path_thumb>
+                <file_name>o_corazon_na_boca_cadrado_web.jpg</file_name>
+                <alternative_text />
+                <title />
+            </image>
+            <url>https://www.cultura.gal/es/evento/110572/158/140878</url>
+            <online_event>0</online_event>
+            <url_online_event />
+            <language>es</language>
+            <event_detail>https://www.cultura.gal/v1/axenda/eventos/140878</event_detail>
+        </item>
+        <item>
+            <id>139966</id>
+            <date>
+                <start_date>2024-04-21 17:00:00</start_date>
+                <end_date>2024-04-21 17:00:00</end_date>
+            </date>
+            <state />
+            <celebration_place>
+                <name>Rúa de Ramón del Valle Inclán 6</name>
+                <space_id>2196</space_id>
+                <town>
+                    <tid>270</tid>
+                    <name>Santiago de Compostela</name>
+                    <ine_code>150780</ine_code>
+                </town>
+                <location>
+                    <longitude>-8.54004618</longitude>
+                    <latitude>42.88315036</latitude>
+                </location>
+            </celebration_place>
+            <title>Dumbo, o musical</title>
+            <entry>Un divertido espectáculo para toda la familia con una gran puesta en escena y
+                voces en directo que no sólo habla de la inclusión sino que toca temas como el acoso
+                que sufren los que son diferentes. Un musical c...</entry>
+            <event_type>
+                <tid>159</tid>
+                <name>Teatro</name>
+                <image>https://www.cultura.gal/sites/default/files/images/taxonomia/tipoloxia/teatro_0.svg</image>
+                <tid_sup>158</tid_sup>
+                <ttid>102</ttid>
+            </event_type>
+            <cycle>
+                <tid>0</tid>
+                <name />
+                <image />
+            </cycle>
+            <image>
+                <path>https://www.cultura.gal/sites/default/files/images/evento/5321fe150c9fd46d5e49899c5256f236827bcamv2.jpg</path>
+                <path_thumb>https://www.cultura.gal/sites/default/files/styles/evento_thumb_ws/public/images/evento/5321fe150c9fd46d5e49899c5256f236827bcamv2.jpg</path_thumb>
+                <file_name>5321fe150c9fd46d5e49899c5256f236827bcamv2.jpg</file_name>
+                <alternative_text />
+                <title />
+            </image>
+            <url>https://www.cultura.gal/es/evento/109507/158/139966</url>
+            <online_event>0</online_event>
+            <url_online_event />
+            <language>es</language>
+            <event_detail>https://www.cultura.gal/v1/axenda/eventos/139966</event_detail>
+        </item>
+        <item>
+            <id>139080</id>
+            <date>
+                <start_date>2024-04-21 18:00:00</start_date>
+                <end_date>2024-04-21 18:00:00</end_date>
+            </date>
+            <state />
+            <celebration_place>
+                <name>Pazo da Cultura de Carballo</name>
+                <space_id />
+                <town>
+                    <tid>210</tid>
+                    <name>Carballo</name>
+                    <ine_code>150196</ine_code>
+                </town>
+                <location>
+                    <longitude>-8.689295</longitude>
+                    <latitude>43.2135</latitude>
+                </location>
+            </celebration_place>
+            <title>O conto de Persépolis</title>
+            <entry>Espectáculo de danza infantil a cargo de La Coja dansa</entry>
+            <event_type>
+                <tid>157</tid>
+                <name>Danza</name>
+                <image>
+                    https://www.cultura.gal/sites/default/files/images/taxonomia/tipoloxia/danza_0.svg</image>
+                <tid_sup>158</tid_sup>
+                <ttid>103</ttid>
+            </event_type>
+            <cycle>
+                <tid>525</tid>
+                <name>Rede galega de teatros e auditorios</name>
+                <image>https://www.cultura.gal/sites/default/files/images/taxonomia/ciclo/teatros_0.jpg</image>
+            </cycle>
+            <image>
+                <path>https://www.cultura.gal/sites/default/files/images/evento/coja.jpg</path>
+                <path_thumb>https://www.cultura.gal/sites/default/files/styles/evento_thumb_ws/public/images/evento/coja.jpg</path_thumb>
+                <file_name>coja.jpg</file_name>
+                <alternative_text />
+                <title />
+            </image>
+            <url>https://www.cultura.gal/es/evento/108800/158/139080</url>
+            <online_event>0</online_event>
+            <url_online_event />
+            <language>es</language>
+            <event_detail>https://www.cultura.gal/v1/axenda/eventos/139080</event_detail>
+        </item>
+        <item>
+            <id>119385</id>
+            <date>
+                <start_date>2024-04-21 18:00:00</start_date>
+                <end_date>2024-04-21 18:00:00</end_date>
+            </date>
+            <state />
+            <celebration_place>
+                <name>Auditorio Municipal </name>
+                <space_id />
+                <town>
+                    <tid>502</tid>
+                    <name>Vigo</name>
+                    <ine_code>360577</ine_code>
+                </town>
+                <location>
+                    <longitude>-8.726835</longitude>
+                    <latitude>42.235881</latitude>
+                </location>
+            </celebration_place>
+            <title>Cirqueiras</title>
+            <entry>Espectáculo a cargo de Artefeito</entry>
+            <event_type>
+                <tid>102</tid>
+                <name>Nuevo circo</name>
+                <image>https://www.cultura.gal/sites/default/files/images/taxonomia/tipoloxia/circo_0.svg</image>
+                <tid_sup>158</tid_sup>
+                <ttid>44</ttid>
+            </event_type>
+            <cycle>
+                <tid>525</tid>
+                <name>Rede galega de teatros e auditorios</name>
+                <image>https://www.cultura.gal/sites/default/files/images/taxonomia/ciclo/teatros_0.jpg</image>
+            </cycle>
+            <image>
+                <path>https://www.cultura.gal/sites/default/files/images/evento/cirqueira.jpg</path>
+                <path_thumb>https://www.cultura.gal/sites/default/files/styles/evento_thumb_ws/public/images/evento/cirqueira.jpg</path_thumb>
+                <file_name>cirqueira.jpg</file_name>
+                <alternative_text />
+                <title />
+            </image>
+            <url>https://www.cultura.gal/es/evento/95054/158/119385</url>
+            <online_event>0</online_event>
+            <url_online_event />
+            <language>es</language>
+            <event_detail>https://www.cultura.gal/v1/axenda/eventos/119385</event_detail>
+        </item>
+        <item>
+            <id>140684</id>
+            <date>
+                <start_date>2024-04-21 18:00:00</start_date>
+                <end_date>2024-04-21 18:00:00</end_date>
+            </date>
+            <state />
+            <celebration_place>
+                <name>Salón Teatro</name>
+                <space_id />
+                <town>
+                    <tid>270</tid>
+                    <name>Santiago de Compostela</name>
+                    <ine_code>150780</ine_code>
+                </town>
+                <location>
+                    <longitude>-8.546226</longitude>
+                    <latitude>42.880355</latitude>
+                </location>
+            </celebration_place>
+            <title>Os actos e as profecías</title>
+            <entrada />
+            <event_type>
+                <tid>159</tid>
+                <name>Teatro</name>
+                <image>https://www.cultura.gal/sites/default/files/images/taxonomia/tipoloxia/teatro_0.svg</image>
+                <tid_sup>158</tid_sup>
+                <ttid>102</ttid>
+            </event_type>
+            <cycle>
+                <tid>0</tid>
+                <name />
+                <image />
+            </cycle>
+            <image>
+                <path>https://www.cultura.gal/sites/default/files/images/evento/diseno_sin_titulo_5.png</path>
+                <path_thumb>https://www.cultura.gal/sites/default/files/styles/evento_thumb_ws/public/images/evento/diseno_sin_titulo_5.png</path_thumb>
+                <file_name>diseno_sin_titulo_5.png</file_name>
+                <alternative_text />
+                <title />
+            </image>
+            <url>https://www.cultura.gal/es/evento/110367/158/140684</url>
+            <online_event>0</online_event>
+            <url_online_event />
+            <language>es</language>
+            <event_detail>https://www.cultura.gal/v1/axenda/eventos/140684</event_detail>
+        </item>
+        <item>
+            <id>138839</id>
+            <date>
+                <start_date>2024-04-21 18:30:00</start_date>
+                <end_date>2024-04-21 18:30:00</end_date>
+            </date>
+            <state />
+            <celebration_place>
+                <name>Avenida do Burgo das Nacións</name>
+                <space_id>2126</space_id>
+                <town>
+                    <tid>270</tid>
+                    <name>Santiago de Compostela</name>
+                    <ine_code>150780</ine_code>
+                </town>
+                <location>
+                    <longitude>-8.5439031</longitude>
+                    <latitude>42.8896322</latitude>
+                </location>
+            </celebration_place>
+            <title>Gran Gala del Circo</title>
+            <entry>PISTACATRO PRODUTORA DE SOÑOS</entry>
+            <event_type>
+                <tid>101</tid>
+                <name>Cuentacuentos/Narración oral</name>
+                <image>https://www.cultura.gal/sites/default/files/images/taxonomia/tipoloxia/contacontos_0.svg</image>
+                <tid_sup>158</tid_sup>
+                <ttid>42</ttid>
+            </event_type>
+            <cycle>
+                <tid>0</tid>
+                <name />
+                <image />
+            </cycle>
+            <image>
+                <path>https://www.cultura.gal/sites/default/files/images/evento/6071538427153117651506162384429683685982208o01.jpeg</path>
+                <path_thumb>https://www.cultura.gal/sites/default/files/styles/evento_thumb_ws/public/images/evento/6071538427153117651506162384429683685982208o01.jpeg</path_thumb>
+                <file_name>6071538427153117651506162384429683685982208o01.jpeg</file_name>
+                <alternative_text />
+                <title />
+            </image>
+            <url>https://www.cultura.gal/es/evento/108543/158/138839</url>
+            <online_event>0</online_event>
+            <url_online_event />
+            <language>es</language>
+            <event_detail>https://www.cultura.gal/v1/axenda/eventos/138839</event_detail>
+        </item>
+        <item>
+            <id>139127</id>
+            <date>
+                <start_date>2024-04-21 18:30:00</start_date>
+                <end_date>2024-04-21 18:30:00</end_date>
+            </date>
+            <state />
+            <celebration_place>
+                <name>Auditorio Gustavo Freire</name>
+                <space_id />
+                <town>
+                    <tid>313</tid>
+                    <name>Lugo</name>
+                    <ine_code>270288</ine_code>
+                </town>
+                <location>
+                    <longitude>-7.556448</longitude>
+                    <latitude>43.010084</latitude>
+                </location>
+            </celebration_place>
+            <title>Mamut</title>
+            <entry>Espectáculo de teatro a cargo de Markeliñe</entry>
+            <event_type>
+                <tid>159</tid>
+                <name>Teatro</name>
+                <image>https://www.cultura.gal/sites/default/files/images/taxonomia/tipoloxia/teatro_0.svg</image>
+                <tid_sup>158</tid_sup>
+                <ttid>102</ttid>
+            </event_type>
+            <cycle>
+                <tid>525</tid>
+                <name>Rede galega de teatros e auditorios</name>
+                <image>https://www.cultura.gal/sites/default/files/images/taxonomia/ciclo/teatros_0.jpg</image>
+            </cycle>
+            <image>
+                <path>https://www.cultura.gal/sites/default/files/images/evento/mamut_0.jpg</path>
+                <path_thumb>https://www.cultura.gal/sites/default/files/styles/evento_thumb_ws/public/images/evento/mamut_0.jpg</path_thumb>
+                <file_name>mamut_0.jpg</file_name>
+                <alternative_text />
+                <title />
+            </image>
+            <url>https://www.cultura.gal/es/evento/107230/158/139127</url>
+            <online_event>0</online_event>
+            <url_online_event />
+            <language>es</language>
+            <event_detail>https://www.cultura.gal/v1/axenda/eventos/139127</event_detail>
+        </item>
+        <item>
+            <id>139598</id>
+            <date>
+                <start_date>2024-04-21 19:00:00</start_date>
+                <end_date>2024-04-21 19:00:00</end_date>
+            </date>
+            <state />
+            <celebration_place>
+                <name>Auditorio Lois Tobío</name>
+                <space_id />
+                <town>
+                    <tid>465</tid>
+                    <name>Gondomar</name>
+                    <ine_code>360216</ine_code>
+                </town>
+                <location>
+                    <longitude>-8.761575</longitude>
+                    <latitude>42.110539</latitude>
+                </location>
+            </celebration_place>
+            <title>Titiricircus</title>
+            <entry>Espectáculo de títeres de hilo y actores de la compañía Tanxarina</entry>
+            <event_type>
+                <tid>100</tid>
+                <name>Marionetas</name>
+                <image>https://www.cultura.gal/sites/default/files/images/taxonomia/tipoloxia/monicreques_0.svg</image>
+                <tid_sup>158</tid_sup>
+                <ttid>41</ttid>
+            </event_type>
+            <cycle>
+                <tid>525</tid>
+                <name>Rede galega de teatros e auditorios</name>
+                <image>https://www.cultura.gal/sites/default/files/images/taxonomia/ciclo/teatros_0.jpg</image>
+            </cycle>
+            <image>
+                <path>https://www.cultura.gal/sites/default/files/images/evento/titiricircus.png</path>
+                <path_thumb>https://www.cultura.gal/sites/default/files/styles/evento_thumb_ws/public/images/evento/titiricircus.png</path_thumb>
+                <file_name>titiricircus.png</file_name>
+                <alternative_text />
+                <title />
+            </image>
+            <url>https://www.cultura.gal/es/evento/80676/158/139598</url>
+            <online_event>0</online_event>
+            <url_online_event />
+            <language>es</language>
+            <event_detail>https://www.cultura.gal/v1/axenda/eventos/139598</event_detail>
+        </item>
+        <item>
+            <id>140452</id>
+            <date>
+                <start_date>2024-04-22 19:00:00</start_date>
+                <end_date>2024-04-22 19:00:00</end_date>
+            </date>
+            <state />
+            <celebration_place>
+                <name>BP de Santiago Ánxel Casal</name>
+                <space_id>890</space_id>
+                <town>
+                    <tid>270</tid>
+                    <name>Santiago de Compostela</name>
+                    <ine_code>150780</ine_code>
+                </town>
+                <location>
+                    <longitude>-8.5443154</longitude>
+                    <latitude>42.8839084</latitude>
+                </location>
+            </celebration_place>
+            <title>Conversas literarias</title>
+            <entry>A cargo de Cabido &amp; Varela</entry>
+            <event_type>
+                <tid>24</tid>
+                <name>Conferencia/Mesa redonda</name>
+                <image>https://www.cultura.gal/sites/default/files/images/taxonomia/tipoloxia/conferencia_0.svg</image>
+                <tid_sup>107</tid_sup>
+                <ttid>106</ttid>
+            </event_type>
+            <cycle>
+                <tid>0</tid>
+                <name />
+                <image />
+            </cycle>
+            <image>
+                <path>https://www.cultura.gal/sites/default/files/images/evento/conversas_literarias_cartel_anxelcasal_1.png</path>
+                <path_thumb>https://www.cultura.gal/sites/default/files/styles/evento_thumb_ws/public/images/evento/conversas_literarias_cartel_anxelcasal_1.png</path_thumb>
+                <file_name>conversas_literarias_cartel_anxelcasal_1.png</file_name>
+                <alternative_text />
+                <title />
+            </image>
+            <url>https://www.cultura.gal/es/evento/110117/107/140452</url>
+            <online_event>0</online_event>
+            <url_online_event />
+            <language>es</language>
+            <event_detail>https://www.cultura.gal/v1/axenda/eventos/140452</event_detail>
+        </item>
+        <item>
+            <id>140782</id>
+            <date>
+                <start_date>2024-04-22 19:30:00</start_date>
+                <end_date>2024-04-22 19:30:00</end_date>
+            </date>
+            <state />
+            <celebration_place>
+                <name>Biblioteca Pública de Lugo</name>
+                <space_id>983</space_id>
+                <town>
+                    <tid>313</tid>
+                    <name>Lugo</name>
+                    <ine_code>270288</ine_code>
+                </town>
+                <location>
+                    <longitude>-7.55408</longitude>
+                    <latitude>43.0044</latitude>
+                </location>
+            </celebration_place>
+            <title>150 anos da Torre do Reloxo da casa do Concello</title>
+            <entry>A cargo de Adolfo de Abel Vilela</entry>
+            <event_type>
+                <tid>24</tid>
+                <name>Conferencia/Mesa redonda</name>
+                <image>https://www.cultura.gal/sites/default/files/images/taxonomia/tipoloxia/conferencia_0.svg</image>
+                <tid_sup>107</tid_sup>
+                <ttid>106</ttid>
+            </event_type>
+            <cycle>
+                <tid>0</tid>
+                <name />
+                <image />
+            </cycle>
+            <image>
+                <path>https://www.cultura.gal/sites/default/files/images/evento/cartel_adolfo_de_abel_vilela_0.jpg</path>
+                <path_thumb>https://www.cultura.gal/sites/default/files/styles/evento_thumb_ws/public/images/evento/cartel_adolfo_de_abel_vilela_0.jpg</path_thumb>
+                <file_name>cartel_adolfo_de_abel_vilela_0.jpg</file_name>
+                <alternative_text />
+                <title />
+            </image>
+            <url>https://www.cultura.gal/es/evento/110454/107/140782</url>
+            <online_event>0</online_event>
+            <url_online_event />
+            <language>es</language>
+            <event_detail>https://www.cultura.gal/v1/axenda/eventos/140782</event_detail>
+        </item>
+        <item>
+            <id>140504</id>
+            <date>
+                <start_date>2024-04-09 09:00:00</start_date>
+                <end_date>2024-04-22 21:00:00</end_date>
+            </date>
+            <state />
+            <celebration_place>
+                <name>Biblioteca Pública de Lugo</name>
+                <space_id>983</space_id>
+                <town>
+                    <tid>313</tid>
+                    <name>Lugo</name>
+                    <ine_code>270288</ine_code>
+                </town>
+                <location>
+                    <longitude>-7.55408</longitude>
+                    <latitude>43.0044</latitude>
+                </location>
+            </celebration_place>
+            <title>Mostra Bibliográfica - Homenaxe a Xesús Alonso Montero</title>
+            <entrada />
+            <event_type>
+                <tid>548</tid>
+                <name>Feria/Muestra</name>
+                <image>https://www.cultura.gal/sites/default/files/images/taxonomia/tipoloxia/feira_mostra_0.svg</image>
+                <tid_sup>107</tid_sup>
+                <ttid>133</ttid>
+            </event_type>
+            <cycle>
+                <tid>0</tid>
+                <name />
+                <image />
+            </cycle>
+            <image>
+                <path>https://www.cultura.gal/sites/default/files/images/evento/xesus-alonso.jpg</path>
+                <path_thumb>https://www.cultura.gal/sites/default/files/styles/evento_thumb_ws/public/images/evento/xesus-alonso.jpg</path_thumb>
+                <file_name>xesus-alonso.jpg</file_name>
+                <alternative_text />
+                <title />
+            </image>
+            <url>https://www.cultura.gal/es/evento/110189/107/140504</url>
+            <online_event>0</online_event>
+            <url_online_event />
+            <language>es</language>
+            <event_detail>https://www.cultura.gal/v1/axenda/eventos/140504</event_detail>
+        </item>
+        <item>
+            <id>140827</id>
+            <date>
+                <start_date>2024-04-23 12:00:00</start_date>
+                <end_date>2024-04-23 12:00:00</end_date>
+            </date>
+            <state />
+            <celebration_place>
+                <name>Salón de actos do CSC de O Cádavo</name>
+                <space_id />
+                <town>
+                    <tid>289</tid>
+                    <name>Baleira</name>
+                    <ine_code>270044</ine_code>
+                </town>
+                <location>
+                    <longitude>-7.246138</longitude>
+                    <latitude>43.016478</latitude>
+                </location>
+            </celebration_place>
+            <title>O neno raio</title>
+            <entry>Actividad de la Furgoteca de Lugo, con Raquel Crespo</entry>
+            <event_type>
+                <tid>159</tid>
+                <name>Teatro</name>
+                <image>https://www.cultura.gal/sites/default/files/images/taxonomia/tipoloxia/teatro_0.svg</image>
+                <tid_sup>158</tid_sup>
+                <ttid>102</ttid>
+            </event_type>
+            <cycle>
+                <tid>0</tid>
+                <name />
+                <image />
+            </cycle>
+            <image>
+                <path>https://www.cultura.gal/sites/default/files/images/evento/imaxe_cartel_o_neno_raio.jpg</path>
+                <path_thumb>https://www.cultura.gal/sites/default/files/styles/evento_thumb_ws/public/images/evento/imaxe_cartel_o_neno_raio.jpg</path_thumb>
+                <file_name>imaxe_cartel_o_neno_raio.jpg</file_name>
+                <alternative_text />
+                <title />
+            </image>
+            <url>https://www.cultura.gal/es/evento/110505/158/140827</url>
+            <online_event>0</online_event>
+            <url_online_event />
+            <language>es</language>
+            <event_detail>https://www.cultura.gal/v1/axenda/eventos/140827</event_detail>
+        </item>
+        <item>
+            <id>140313</id>
+            <date>
+                <start_date>2024-04-23 17:00:00</start_date>
+                <end_date>2024-04-23 17:00:00</end_date>
+            </date>
+            <state />
+            <celebration_place>
+                <name>Museo Provincial de Lugo</name>
+                <space_id>748</space_id>
+                <town>
+                    <tid>313</tid>
+                    <name>Lugo</name>
+                    <ine_code>270288</ine_code>
+                </town>
+                <location>
+                    <longitude>-7.559028</longitude>
+                    <latitude>43.011361</latitude>
+                </location>
+            </celebration_place>
+            <title>Estratexias de museoloxía social 2024</title>
+            <entry>Ciclo de conversas</entry>
+            <event_type>
+                <tid>24</tid>
+                <name>Conferencia/Mesa redonda</name>
+                <image>https://www.cultura.gal/sites/default/files/images/taxonomia/tipoloxia/conferencia_0.svg</image>
+                <tid_sup>107</tid_sup>
+                <ttid>106</ttid>
+            </event_type>
+            <cycle>
+                <tid>0</tid>
+                <name />
+                <image />
+            </cycle>
+            <image>
+                <path>https://www.cultura.gal/sites/default/files/images/evento/cartazconversas_edms24.jpg</path>
+                <path_thumb>https://www.cultura.gal/sites/default/files/styles/evento_thumb_ws/public/images/evento/cartazconversas_edms24.jpg</path_thumb>
+                <file_name>cartazconversas_edms24.jpg</file_name>
+                <alternative_text />
+                <title />
+            </image>
+            <url>https://www.cultura.gal/es/evento/109924/107/140313</url>
+            <online_event>1</online_event>
+            <url_online_event>https://comunidadermpl.gal/estratexias-de-museoloxia-social-2024/</url_online_event>
+            <language>es</language>
+            <event_detail>https://www.cultura.gal/v1/axenda/eventos/140313</event_detail>
+        </item>
+        <item>
+            <id>140515</id>
+            <date>
+                <start_date>2024-04-23 18:00:00</start_date>
+                <end_date>2024-04-23 18:00:00</end_date>
+            </date>
+            <state />
+            <celebration_place>
+                <name>Biblioteca Pública de Ourense</name>
+                <space_id>1023</space_id>
+                <town>
+                    <tid>403</tid>
+                    <name>Ourense</name>
+                    <ine_code>320548</ine_code>
+                </town>
+                <location>
+                    <longitude>-7.8593069</longitude>
+                    <latitude>42.338061</latitude>
+                </location>
+            </celebration_place>
+            <title>Contiños na Biblio!</title>
+            <entrada />
+            <event_type>
+                <tid>101</tid>
+                <name>Cuentacuentos/Narración oral</name>
+                <image>https://www.cultura.gal/sites/default/files/images/taxonomia/tipoloxia/contacontos_0.svg</image>
+                <tid_sup>158</tid_sup>
+                <ttid>42</ttid>
+            </event_type>
+            <cycle>
+                <tid>0</tid>
+                <name />
+                <image />
+            </cycle>
+            <image>
+                <path>https://www.cultura.gal/sites/default/files/images/evento/continos_con_susana_3.jpg</path>
+                <path_thumb>https://www.cultura.gal/sites/default/files/styles/evento_thumb_ws/public/images/evento/continos_con_susana_3.jpg</path_thumb>
+                <file_name>continos_con_susana_3.jpg</file_name>
+                <alternative_text />
+                <title />
+            </image>
+            <url>https://www.cultura.gal/es/evento/96747/158/140515</url>
+            <online_event>0</online_event>
+            <url_online_event />
+            <language>es</language>
+            <event_detail>https://www.cultura.gal/v1/axenda/eventos/140515</event_detail>
+        </item>
+        <item>
+            <id>140648</id>
+            <date>
+                <start_date>2024-04-23 18:00:00</start_date>
+                <end_date>2024-04-23 18:00:00</end_date>
+            </date>
+            <state />
+            <celebration_place>
+                <name>Filmoteca de Galicia</name>
+                <space_id>1327</space_id>
+                <town>
+                    <tid>222</tid>
+                    <name>A Coruña</name>
+                    <ine_code>150308</ine_code>
+                </town>
+                <location>
+                    <longitude>-8.404887</longitude>
+                    <latitude>43.367797</latitude>
+                </location>
+            </celebration_place>
+            <title>Perdición</title>
+            <entry>Adapta al cine la novela "Three of Kind" (1935), de James M. Caine, basada en
+                hechos reales</entry>
+            <event_type>
+                <tid>103</tid>
+                <name>Proxeción audiovisual</name>
+                <image>https://www.cultura.gal/sites/default/files/images/taxonomia/tipoloxia/iconoaudiovisual_0.svg</image>
+                <tid_sup>103</tid_sup>
+                <ttid>46</ttid>
+            </event_type>
+            <cycle>
+                <tid>2078</tid>
+                <name>Fuera de serie</name>
+                <image>https://www.cultura.gal/sites/default/files/images/taxonomia/ciclo/fora-de-serie_0.jpg</image>
+            </cycle>
+            <image>
+                <path>https://www.cultura.gal/sites/default/files/images/evento/double_indemnity_1.jpg</path>
+                <path_thumb>https://www.cultura.gal/sites/default/files/styles/evento_thumb_ws/public/images/evento/double_indemnity_1.jpg</path_thumb>
+                <file_name>double_indemnity_1.jpg</file_name>
+                <alternative_text />
+                <title />
+            </image>
+            <url>https://www.cultura.gal/es/evento/110336/103/140648</url>
+            <online_event>0</online_event>
+            <url_online_event />
+            <language>es</language>
+            <event_detail>https://www.cultura.gal/v1/axenda/eventos/140648</event_detail>
+        </item>
+        <item>
+            <id>140524</id>
+            <date>
+                <start_date>2024-04-23 18:00:00</start_date>
+                <end_date>2024-04-23 18:00:00</end_date>
+            </date>
+            <state />
+            <celebration_place>
+                <name>Biblioteca Pública de Ourense</name>
+                <space_id>1023</space_id>
+                <town>
+                    <tid>403</tid>
+                    <name>Ourense</name>
+                    <ine_code>320548</ine_code>
+                </town>
+                <location>
+                    <longitude>-7.8593069</longitude>
+                    <latitude>42.338061</latitude>
+                </location>
+            </celebration_place>
+            <title>Taller de escritura: relato colaborativo</title>
+            <entry>Celebra el día del libro escribiendo</entry>
+            <event_type>
+                <tid>104</tid>
+                <name>Taller</name>
+                <image>https://www.cultura.gal/sites/default/files/images/taxonomia/tipoloxia/iconoobradoiros_0.svg</image>
+                <tid_sup>104</tid_sup>
+                <ttid>45</ttid>
+            </event_type>
+            <cycle>
+                <tid>0</tid>
+                <name />
+                <image />
+            </cycle>
+            <image>
+                <path>https://www.cultura.gal/sites/default/files/images/evento/oe_-_carteis_de_promocion.png</path>
+                <path_thumb>https://www.cultura.gal/sites/default/files/styles/evento_thumb_ws/public/images/evento/oe_-_carteis_de_promocion.png</path_thumb>
+                <file_name>oe_-_carteis_de_promocion.png</file_name>
+                <alternative_text />
+                <title />
+            </image>
+            <url>https://www.cultura.gal/es/evento/110209/104/140524</url>
+            <online_event>0</online_event>
+            <url_online_event />
+            <language>es</language>
+            <event_detail>https://www.cultura.gal/v1/axenda/eventos/140524</event_detail>
+        </item>
+        <item>
+            <id>139993</id>
+            <date>
+                <start_date>2024-04-23 18:30:00</start_date>
+                <end_date>2024-04-23 18:30:00</end_date>
+            </date>
+            <state />
+            <celebration_place>
+                <name>BP da Coruña Miguel González Garcés</name>
+                <space_id>866</space_id>
+                <town>
+                    <tid>222</tid>
+                    <name>A Coruña</name>
+                    <ine_code>150308</ine_code>
+                </town>
+                <location>
+                    <longitude>-8.40518</longitude>
+                    <latitude>43.348274</latitude>
+                </location>
+            </celebration_place>
+            <title>De aló de onde eu veño</title>
+            <entry>Caxoto</entry>
+            <event_type>
+                <tid>101</tid>
+                <name>Cuentacuentos/Narración oral</name>
+                <image>https://www.cultura.gal/sites/default/files/images/taxonomia/tipoloxia/contacontos_0.svg</image>
+                <tid_sup>158</tid_sup>
+                <ttid>42</ttid>
+            </event_type>
+            <cycle>
+                <tid>0</tid>
+                <name />
+                <image />
+            </cycle>
+            <image>
+                <path>https://www.cultura.gal/sites/default/files/images/evento/de-alo-de-onde-eu-veno-1.jpg</path>
+                <path_thumb>https://www.cultura.gal/sites/default/files/styles/evento_thumb_ws/public/images/evento/de-alo-de-onde-eu-veno-1.jpg</path_thumb>
+                <file_name>de-alo-de-onde-eu-veno-1.jpg</file_name>
+                <alternative_text />
+                <title />
+            </image>
+            <url>https://www.cultura.gal/es/evento/109544/158/139993</url>
+            <online_event>0</online_event>
+            <url_online_event />
+            <language>es</language>
+            <event_detail>https://www.cultura.gal/v1/axenda/eventos/139993</event_detail>
+        </item>
+    </agenda_list>
+</result>

@@ -1,0 +1,83 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  box-sizing: border-box;
+}
+
+.n-events{
+  border-collapse: collapse;
+}
+
+td,th{
+  background-color: #1cb0f6;
+  border:1px solid white;
+  padding:3px;
+  text-align: center;
+}
+
+.center{
+  display:flex;
+  justify-content: center;
+}
+
+.coruna{
+  background-color:#d0bbfc;
+}
+
+.lugo{
+  background-color:#c6fcbb;
+}
+
+.ourense{
+  background-color:#fcd0bb;
+}
+
+.pontevedra{
+  background-color:#bbe7fc;
+}
+
+.card{
+  width:350px;
+  height:500px;
+  margin:5px;
+}
+
+.top{
+  background-color: #1cb0f6;
+  text-align: center;
+  padding: 1px 0px 8px 0px;
+  height:350px;
+}
+
+.top img{
+  max-width: 350px;
+  max-height: 250px;
+}
+
+.top h3 a{
+  color:white;
+  text-decoration: none;
+}
+
+.flex{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.bottom .icon{
+  width:25px;
+  margin-right:2px;
+}
+
+.bottom div{
+  height:30px;
+  padding:2.5px;
+  display:flex;
+  align-items:flex-start;
+}
+
+.bottom {
+  padding:2px;
+}
